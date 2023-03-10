@@ -1,0 +1,89 @@
+table {
+    border-collapse: collapse;
+    width:70%;
+  }
+  
+  td, tr {
+    border: 2px double black;
+    padding:30px;
+    position: relative;
+  }
+#antra{
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+  height: 60px;
+
+}
+#google{
+
+  position:absolute;
+  top:0;
+  left:0;
+}
+
+#github{
+  font-weight: 500;
+  position:absolute;
+
+  top:0;
+  right:0;
+}
+
+#fb{
+  font-weight: 500;
+  position:absolute;
+
+  top:0;
+  text-align: center;
+}
+
+#gmail{
+  font-weight: 500;
+  position:absolute;
+
+  top:50%;
+  left:0;
+}
+
+#youtube{
+  font-weight: 500;
+  position:absolute;
+
+  bottom:0;
+  text-align: center;
+}
+
+#2048{
+  font-weight: 500;
+  position:absolute;
+  top:0;
+  left:0;
+}
+
+#food{
+  font-weight: 500;
+  position:absolute;
+  bottom:0;
+  right:0;
+}
+#game{
+  font-weight: 500;
+  position:absolute;
+  bottom:0;
+  left:0;
+}
+
+#beer{
+  font-weight: 500;
+  position:absolute;
+  right:0;
+}
+#we{
+  font-weight: 500;
+  position:absolute;
+  
+  text-align: center;
+  left:0;
+}
+  

@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    width:70%;
+  }
+  
+  td, tr {
+    border: 2px double black;
+    padding:30px;
+  }
+  .button-cell {
+    position: relative;
+    height: 80px;
+    color:blue;
+  }
+  .button-cell a {
+    
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    font-size: 24px;
+    font-weight: bold;
+    background: linear-gradient(to bottom, #afabab 50%, #5e5757 50%);
+  }
+  
